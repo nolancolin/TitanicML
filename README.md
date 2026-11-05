@@ -6,7 +6,7 @@
 
 Exploration · feature engineering · régression logistique · Random Forest · validation croisée imbriquée
 
-[![tests](https://github.com/nolancolin/titanic-ml/actions/workflows/tests.yml/badge.svg)](https://github.com/nolancolin/titanic-ml/actions/workflows/tests.yml)
+[![tests](https://github.com/nolancolin/TitanicML/actions/workflows/tests.yml/badge.svg)](https://github.com/nolancolin/TitanicML/actions/workflows/tests.yml)
 ![Python 3.12](https://img.shields.io/badge/python-3.12-3776AB?logo=python&logoColor=white)
 ![scikit-learn 1.7](https://img.shields.io/badge/scikit--learn-1.7-F7931E?logo=scikitlearn&logoColor=white)
 
@@ -53,8 +53,8 @@ se comparent donc pas directement entre eux.
 Il faut Python 3.12 :
 
 ```bash
-git clone https://github.com/nolancolin/titanic-ml.git
-cd titanic-ml
+git clone https://github.com/nolancolin/TitanicML.git
+cd TitanicML
 python -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
