@@ -207,4 +207,4 @@ titanic.ipynb       toutes les expériences, de V1 à V13
 
 ## Auteur
 
-Projet réalisé par [Nolan](https://github.com/nolancolin), 2026.
+Projet réalisé par [Nolan Colin](https://github.com/nolancolin), 2026.
